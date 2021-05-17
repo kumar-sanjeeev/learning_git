@@ -1,2 +1,2 @@
 This is version 2 of my software.
-This change has been done over the github
+This change has been done over the github platform
