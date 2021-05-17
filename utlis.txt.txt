@@ -1,1 +1,1 @@
-Utility for function one.
+Utility for function two.
